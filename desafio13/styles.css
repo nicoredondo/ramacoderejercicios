@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: rgb(129, 254, 2);
+    font-family: "Big Shoulders Display";
+    font-weight: 600;
+    margin: 0px;
+}
+
+#titulo {
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 10ex;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+
+#tituloPedido {
+    text-align: center;
+    background-color: blue;
+}
+
+#formulario {
+    text-align: center;
+}
+
+#btnSubmit {
+    margin-top: 5ex;
+}
